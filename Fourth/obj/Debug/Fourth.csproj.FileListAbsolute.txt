@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth_MarkupCompile.cache
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth_MarkupCompile.lref
+C:\Users\User\source\repos\Fourth\Fourth\bin\Debug\Fourth.exe.config
+C:\Users\User\source\repos\Fourth\Fourth\bin\Debug\Fourth.exe
+C:\Users\User\source\repos\Fourth\Fourth\bin\Debug\Fourth.pdb
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth.g.resources
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth.Properties.Resources.resources
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth.exe
+C:\Users\User\source\repos\Fourth\Fourth\obj\Debug\Fourth.pdb
